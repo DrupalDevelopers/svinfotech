@@ -1,2 +1,0 @@
-# svinfotech
-svinfotech
